@@ -32,7 +32,7 @@ Ensure you have the following installed:
    ```
 3. Run the packet generator to create sample network data:
    ```bash
-   python main.py
+   python generate_packets.py
    ```
 4. Train the anomaly detection model:
    ```bash
