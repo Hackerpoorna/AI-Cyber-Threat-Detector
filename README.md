@@ -54,11 +54,11 @@ Ensure you have the following installed:
 
 ## Team Members
 - [**Poornachandra Vatambedu**](https://github.com/Hackerpoorna) (Leader)
-- [Team Member 1](https://github.com/example1)
-- [Team Member 2](https://github.com/example2)
-- [Team Member 3](https://github.com/example3)
-- [Team Member 4](https://github.com/example4)
-- [Team Member 5](https://github.com/example5)
+- [Sri Hasya](https://github.com/srihasya)
+- [Nikhil Kumar](https://github.com/Nikhilkumar666)
+- [Gokul](https://github.com/Gokul2321)
+- [Sharat](https://github.com/SHARAT0628)
+- [Vineeth](https://github.com/VineethReddy06)
 
 ## GitHub Repository
 [AI Cyber Threat Detector](https://github.com/Hackerpoorna/AI-Cyber-Threat-Detector)
