@@ -36,7 +36,7 @@ Ensure you have the following installed:
    ```
 4. Train the anomaly detection model:
    ```bash
-   python app.py
+   python3 main.py
    ```
    - Use the `/train` API endpoint to train the model.
    - Use the `/anomalies` API endpoint to detect anomalies in captured packets.
@@ -44,12 +44,12 @@ Ensure you have the following installed:
 ## Usage
 - Start the Flask application:
   ```bash
-  python app.py
+  python3 main.py
   ```
 - Use the web interface or API endpoints to analyze network traffic.
 - Capture real-time packets:
   ```bash
-  python capture_packets.py
+  python3 capture_packets.py
   ```
 
 ## Team Members
