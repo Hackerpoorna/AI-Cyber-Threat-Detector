@@ -1,4 +1,3 @@
-
 # AI Cyber Threat Detector
 
 ## Project Overview
@@ -54,16 +53,15 @@ Ensure you have the following installed:
   ```
 
 ## Team Members
-- **Poornachandra Vatambedu** (Leader)
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
-- [Team Member 5]
+- [**Poornachandra Vatambedu**](https://github.com/Hackerpoorna) (Leader)
+- [Team Member 1](https://github.com/example1)
+- [Team Member 2](https://github.com/example2)
+- [Team Member 3](https://github.com/example3)
+- [Team Member 4](https://github.com/example4)
+- [Team Member 5](https://github.com/example5)
 
 ## GitHub Repository
 [AI Cyber Threat Detector](https://github.com/Hackerpoorna/AI-Cyber-Threat-Detector)
 
-## License
-This project is licensed under the MIT License.
+
 
